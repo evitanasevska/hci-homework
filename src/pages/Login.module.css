@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.loginPage {
+  background-color: #e0eaff;
+  height: 100%;
+}
+
+.form {
+  padding: 60px 40px;
+}
+
+.navTitle {
+  padding: 12px 50px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.textField {
+  margin-bottom: 10px !important;
+}
+
+.loginBtn {
+  padding-left: 12% !important;
+  padding-right: 12% !important;
+  margin-right: 9px !important;
+  margin-bottom: 10px !important;
+}
+
+.signupBtn {
+  margin-bottom: 10px !important;
+  text-decoration: none !important;
+}
+
+a {
+  margin-bottom: 10px !important;
+  color: black;
+}
