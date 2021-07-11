@@ -14,6 +14,7 @@ function Login() {
         direction="column"
         alignItems="center"
         style={{ minHeight: "70vh" }}
+        className={style.body}
       >
         <Paper className={style.form}>
           <h2>Login</h2>
