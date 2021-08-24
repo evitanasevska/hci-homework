@@ -7,4 +7,4 @@ causes that they are passionate about. The platform consists of a home page, exp
 create tab and user profile. The main functionalities are creating and joining campaigns as well
 as searching for activities at any location in the world. 
 
-Give it a spin: https://z69mn.csb.app/
+Give it a spin: https://z69mn.csb.app/home
